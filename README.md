@@ -1,1 +1,2 @@
-GIthub 활용하기
+GIthub 활용하기  
+push와 pull 사용하기
